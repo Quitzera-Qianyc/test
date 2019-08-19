@@ -121,7 +121,7 @@ This text is **_really important_**.
 1.  Open the file containing the Linux mascot.
 2.  Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/Users/qianycs/Downloads/tux.png)
+    ![Tux, the Linux mascot](./source/tux.png)
 
 3.  Close the file.
 
